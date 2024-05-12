@@ -1,0 +1,6 @@
+![Interaction Sequence drawio](https://github.com/220014872dazz/Dazz/assets/162877344/c115e6b4-56d3-495f-8982-17aef42a7fb3)
+![view Temp drawio](https://github.com/220014872dazz/Dazz/assets/162877344/0fd4356d-8be8-497e-8cd7-1feb29b3b0e9)
+![View Maint drawio](https://github.com/220014872dazz/Dazz/assets/162877344/2e8be430-9e07-43c7-bdab-5161e93cae1a)
+![Untitled Diagram-Create Harvest Season drawio](https://github.com/220014872dazz/Dazz/assets/162877344/e82bf6b1-cb87-4181-862e-41b536a2c3f8)
+![Temp drawio](https://github.com/220014872dazz/Dazz/assets/162877344/a8da6a7c-4874-4807-ba26-107b2c054e4a)
+![Resolve drawio](https://github.com/220014872dazz/Dazz/assets/162877344/8499d024-6d78-429d-aaf9-3198b1a224ce)
